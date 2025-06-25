@@ -245,7 +245,7 @@
       "bundle" : {
         "artifact" : "nifi-nb-levende-bilder-core-nar",
         "group" : "no.nb.levende-bilder.nifi",
-        "version" : "2.0.12"
+        "version" : "2.0.13"
       },
       "comments" : "",
       "componentType" : "PROCESSOR",
